@@ -1,0 +1,22 @@
+{
+  "name": "findoutapp",
+  "version": "1.0.0",
+  "description": "Find You Need",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banChakri/findOutApp.git"
+  },
+  "author": "kalyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banChakri/findOutApp/issues"
+  },
+  "homepage": "https://github.com/banChakri/findOutApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
